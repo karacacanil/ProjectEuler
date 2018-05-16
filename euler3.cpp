@@ -8,7 +8,7 @@ main()
 	int prime,sonuc;
 	for(int c=2;c<=number;c++)
 	{
-		if(number%c==0) //bölenler alýndý
+		if(number%c==0)
 		{
 			sonuc=asal(c);
 			if(sonuc==1)
