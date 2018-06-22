@@ -1,3 +1,3 @@
 # ProjectEuler
 Project euler solutions in C
-projecteuler.net
+(https://projecteuler.net)
